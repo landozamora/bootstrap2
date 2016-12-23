@@ -1,0 +1,11 @@
+@import url(reset.css);
+body {
+  background-color: white; }
+
+header {
+  background-image: url("img/header-bg.jpg"); }
+
+.container-hero {
+  text-align: center; }
+  .container-hero h2 {
+    font-size: 40px; }
